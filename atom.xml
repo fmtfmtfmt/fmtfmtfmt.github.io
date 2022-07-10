@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://fmt.aaipf.org</id>
+    <title>AAIPF</title>
+    <updated>2022-07-10T16:14:13.761Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://fmt.aaipf.org"/>
+    <link rel="self" href="http://fmt.aaipf.org/atom.xml"/>
+    <subtitle>生命科学抗衰老实践者</subtitle>
+    <logo>http://fmt.aaipf.org/images/avatar.png</logo>
+    <icon>http://fmt.aaipf.org/favicon.ico</icon>
+    <rights>All rights reserved 2022, AAIPF</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章标题]]></title>
+        <id>http://fmt.aaipf.org/post/ce-shi-wen-zhang-biao-ti/</id>
+        <link href="http://fmt.aaipf.org/post/ce-shi-wen-zhang-biao-ti/">
+        </link>
+        <updated>2022-05-05T08:34:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>文章内容</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>文章内容</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>http://fmt.aaipf.org/post/hello-gridea/</id>
+        <link href="http://fmt.aaipf.org/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
